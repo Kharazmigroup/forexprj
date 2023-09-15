@@ -11,3 +11,5 @@
 [MLP3-code](https://github.com/masaponto/Python-MLP)
 
 [Foreign exchange currency rate prediction using a GRU-LSTM hybrid network](https://www.sciencedirect.com/science/article/pii/S2666222120300083)
+
+[preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html)

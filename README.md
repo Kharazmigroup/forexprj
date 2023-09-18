@@ -16,4 +16,4 @@
 
 [preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html)
 
-{SVRCodeColabPahlavani].(https://colab.research.google.com/drive/1fJwDvxodufQQ30XXkKPy-i4gaUNOkUoc#scrollTo=972U59_-EZf9)
+{SVRCodeColabPahlavani](https://colab.research.google.com/drive/1fJwDvxodufQQ30XXkKPy-i4gaUNOkUoc#scrollTo=972U59_-EZf9)

@@ -15,3 +15,4 @@
 [Foreign exchange currency rate prediction using a GRU-LSTM hybrid network](https://www.sciencedirect.com/science/article/pii/S2666222120300083)
 
 [preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html)
+{SVRCodePahlavani].(https://colab.research.google.com/drive/1fJwDvxodufQQ30XXkKPy-i4gaUNOkUoc#scrollTo=972U59_-EZf9)

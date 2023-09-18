@@ -17,3 +17,7 @@
 [preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html)
 
 [SVRCodeColabPahlavani](https://colab.research.google.com/drive/1fJwDvxodufQQ30XXkKPy-i4gaUNOkUoc#scrollTo=972U59_-EZf9)
+
+[RNNCodeColabPahlavani](https://colab.research.google.com/drive/1Pk6QhOyXyPI8h3IFmFiq2T6320ZnOs1Z?usp=sharing)
+
+[HowToUseFlaskUsingModelPahlavani](https://github.com/AdamTibi/LSTM-FX?source=post_page-----569aae6d4a1a--------------------------------)

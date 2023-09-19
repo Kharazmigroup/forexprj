@@ -3,6 +3,7 @@
 [GitHub - AryaKoureshi/CryptoPredictor-DL](https://github.com/AryaKoureshi/CryptoPredictor-DL)
 
 [GitHub - fazelsarraf/LSTMProj](https://github.com/fazelsarraf/LSTMProj)
+[RNN-Ghanbari](https://colab.research.google.com/drive/15q_PIFiI77NdsZOHwqg4MxU6P06ROmY6#scrollTo=PD5gtuXagWgW)
 
 [ML Classification Algorithms to Predict Market Movements and Backtesting](https://medium.com/analytics-vidhya/ml-classification-algorithms-to-predict-market-movements-and-backtesting-2382fdaf7a32)
 

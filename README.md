@@ -4,7 +4,7 @@
 
 [GitHub - fazelsarraf/LSTMProj](https://github.com/fazelsarraf/LSTMProj)
 
-[RNN1-Ghanbari](https://colab.research.google.com/drive/15q_PIFiI77NdsZOHwqg4MxU6P06ROmY6#scrollTo=PD5gtuXagWgW)       [RNN2-Ghanbari](https://colab.research.google.com/drive/1JtxDniWvfyx1Ty3wM-P9VHqeqcTlGwKB?authuser=1#scrollTo=a1KXtjAhrwlQ)
+[[RNN1-Ghanbari]](https://colab.research.google.com/drive/15q_PIFiI77NdsZOHwqg4MxU6P06ROmY6#scrollTo=PD5gtuXagWgW)       [[RNN2-Ghanbari]](https://colab.research.google.com/drive/1JtxDniWvfyx1Ty3wM-P9VHqeqcTlGwKB?authuser=1#scrollTo=a1KXtjAhrwlQ)
 
 [ML Classification Algorithms to Predict Market Movements and Backtesting](https://medium.com/analytics-vidhya/ml-classification-algorithms-to-predict-market-movements-and-backtesting-2382fdaf7a32)
 
